@@ -1,4 +1,4 @@
-{
+4{
   "twrp_url": "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni",
   "twrp_branch": "twrp-11.0",
   "git_username": "guc325",
@@ -7,8 +7,8 @@
   "dt_url": "AndroidBlobs/device_xiaomi_crux",
   "dt_branch": "android-11.0",
   "dt_remote": "github",
-  "dt_path": "device/huawei/kiwi",
-  "device_code": "kiwi",
+  "dt_path": "device/xiaomi/crux",
+  "device_code": "crux",
   "fix_product": true,
   "fix_misscom": true,
   "fix_busybox": false,
