@@ -4,13 +4,13 @@
   "git_username": "guc325",
   "git_email": "guc325@qq.com",
   "use_own_dt": true,
-  "dt_url": "AndroidBlobs/device_xiaomi_crux",
+  "dt_url": "guc325/device_xiaomi_crux",
   "dt_branch": "android-11.0",
   "dt_remote": "github",
   "dt_path": "device/xiaomi/crux",
   "device_code": "crux",
   "fix_product": true,
   "fix_misscom": true,
-  "fix_busybox": false,
+  "fix_busybox": true,
   "fix_branch": "android-11.0"
 }
